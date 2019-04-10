@@ -1,0 +1,7 @@
+- Name
+- Location
+- Work History
+- Skills
+- Hackathons
+- GitHub
+- LinkedIn badge
