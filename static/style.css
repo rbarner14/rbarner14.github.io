@@ -25,7 +25,8 @@
 }*/
 
 #bio {
-/*  width: 300px;*/
   height: 500px;
   border: 1px solid blue; 
+  font-family: 'Shrikhand', cursive;
+  font-weight:700;
 }
