@@ -12,14 +12,20 @@
   font-weight: 700;
 }
 
-.btn, .nav-link {
+/*.btn, .nav-link {
   color: #FFFFFF;
   font-family: 'Roboto', 'sans-serif';
   font-weight:700;
-}
+}*/
 
-.sticky-top{
+/*.sticky-top{
   position: fixed;
   top: 0;
   width: 100%;
+}*/
+
+#bio {
+/*  width: 300px;*/
+  height: 500px;
+  border: 1px solid blue; 
 }
