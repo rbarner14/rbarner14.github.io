@@ -33,6 +33,10 @@
   padding-left: 50px;
 }
 
+h3 {
+  font-family: 'Shrikhand', cursive;
+}
+
 #bio {
   height: 500px;
   border: 1px solid black; 
