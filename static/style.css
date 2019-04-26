@@ -38,6 +38,10 @@
   padding-top: 150px;
 }
 
+.flex-container {
+  display: flex;
+}
+
 .skill {
   width: 80px;
   height: 106px;
