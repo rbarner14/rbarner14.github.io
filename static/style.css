@@ -46,6 +46,15 @@
 h3 {
   font-family: 'Quicksand', sans-serif;
   text-align: center;
+  font-weight: 400;
+  padding: 2em 2em 2em 2em;
+}
+
+h5 {
+  font-family: 'Quicksand', sans-serif;
+  text-align: center;
+  font-weight: 400;
+  padding: 1em 1em 1em 1em;
 }
 
 #bio {
@@ -60,12 +69,14 @@ h3 {
 
 .flex-container {
   display: flex;
+  justify-content: center;
 }
 
 .skill {
   width: 80px;
   height: 106px;
   border: 1px solid black;
+  padding: 1em 1em 1em 1em;
 }
 
 .skill-inner {
