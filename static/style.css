@@ -28,6 +28,11 @@
   height: 300px;
 }
 
+.main-content {
+  padding-right: 50px;
+  padding-left: 50px;
+}
+
 #bio {
   height: 500px;
   border: 1px solid black; 
