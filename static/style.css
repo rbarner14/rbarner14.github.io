@@ -38,6 +38,16 @@
   padding-top: 150px;
 }
 
+.skill {
+  width: 80px;
+  height: 106px;
+}
+
+.skill-inner {
+  width: 80px;
+  height: 80px;
+}
+
 .period {
   color: #FFFF00;
 }
