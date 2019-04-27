@@ -40,11 +40,11 @@
 
 .page-section {
   height: 750px;
+  padding: 0em 5em 5em 5em;
 }
 
 .projects {
   height: 500px;
-  padding: 0em 5em 5em 5em;
 }
 
 .main-content {
