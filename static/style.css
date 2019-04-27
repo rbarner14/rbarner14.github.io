@@ -40,16 +40,14 @@
 
 .page-section {
   height: 750px;
-  padding: 0em 5em 5em 5em;
 }
 
 .projects {
   height: 500px;
+  padding: 0em 5em 5em 5em;
 }
 
 .main-content {
-  padding-right: 50px;
-  padding-left: 50px;
   font-family: 'Quicksand', sans-serif;
 }
 
