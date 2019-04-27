@@ -116,10 +116,11 @@ h5 {
 
 #other-experience {
   text-align: center;
+  height: 400px;
 }
 
 #languages {
-  padding: 1em 1em 1em 1em;
+  padding: 0em 0em 2em 0em;
 }
 
 .contact{
