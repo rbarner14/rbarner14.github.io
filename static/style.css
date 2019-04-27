@@ -80,6 +80,10 @@ h5 {
   padding: 2em 10em 2em 10em;
 }
 
+#skills {
+  height: 1000px;
+}
+
 .skill {
   width: 80px;
   height: 90px;
@@ -112,6 +116,10 @@ h5 {
 
 #other-experience {
   text-align: center;
+}
+
+#languages {
+  padding: 1em 1em 1em 1em;
 }
 
 .contact{
