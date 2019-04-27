@@ -111,11 +111,10 @@ h5 {
 }
 
 #other-experience {
-
+  text-align: center;
 }
 
 .contact{
-  background-color: #1E2019
-  font-color: #D3D0CB;
-  height: 500px;
+  background-color: #167984;
+  height: 100px;
 }
