@@ -35,7 +35,7 @@
 }*/
 
 .page-section {
-  height: 300px;
+  height: 500px;
 }
 
 .main-content {
@@ -70,6 +70,10 @@ h5 {
 .flex-container {
   display: flex;
   justify-content: center;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  align-content: center;
+  padding: 0em 2em;
 }
 
 .skill {
@@ -77,6 +81,8 @@ h5 {
   height: 106px;
   border: 1px solid black;
   padding: 1em 1em 1em 1em;
+  font-family: 'Quicksand', sans-serif;
+  font-weight: 400;
 }
 
 .skill-inner {
