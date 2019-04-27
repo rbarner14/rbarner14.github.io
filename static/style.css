@@ -34,8 +34,13 @@
   width: 100%;
 }*/
 
+.bio {
+  height: 750px;
+}
+
 .page-section {
-  height: 700px;
+  height: 750px;
+  padding: 0em 5em 5em 5em;
 }
 
 .projects {
