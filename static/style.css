@@ -38,6 +38,10 @@
   height: 700px;
 }
 
+.projects {
+  height: 500px;
+}
+
 .main-content {
   padding-right: 50px;
   padding-left: 50px;
@@ -49,7 +53,6 @@ h3 {
   font-weight: 400;
   padding: 2em 2em 2em 2em;
 }
-
 
 h5 {
   text-align: center;
@@ -91,6 +94,7 @@ h5 {
   margin-right: auto;
 }
 
-.period {
-  color: #FFFF00;
+.contact{
+  background-color: #1E2019
+  font-color: #D3D0CB;
 }
