@@ -34,10 +34,6 @@
   width: 100%;
 }*/
 
-.bio {
-  height: 800px;
-}
-
 .page-section {
   height: 750px;
   padding: 0em 5em 5em 5em;
@@ -71,6 +67,10 @@ h5 {
   text-align: center;
   padding-top: 150px;
   height: 100vh;
+}
+
+.btn {
+  bottom: 0;
 }
 
 .flex-container {
