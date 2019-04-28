@@ -123,12 +123,16 @@ h5 {
   padding: 0em 0em 2em 0em;
 }
 
-.contact{
+.contact {
   background-color: #167984;
-  height: 200px;
+/*  height: 200px;*/
   display: flex;
   justify-content: space-around;
   flex-wrap: wrap;
   align-content: center;
   padding: 2em 10em 2em 10em;
+}
+
+.other-contact {
+  align-content: center;
 }
