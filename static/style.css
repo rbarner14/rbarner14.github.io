@@ -107,11 +107,12 @@ h5 {
 }
 
 #professional-experience {
-
+  height: 450px;
 }
 
 #education {
   background-color: #D3D0CB
+  height: 500px;
 }
 
 #other-experience {
