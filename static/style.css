@@ -111,7 +111,7 @@ h5 {
 }
 
 #education {
-  background-color: #D3D0CB
+  background-color: #D3D0CB;
   height: 500px;
 }
 
@@ -126,7 +126,6 @@ h5 {
 
 .contact {
   background-color: #167984;
-/*  height: 200px;*/
   display: flex;
   justify-content: space-around;
   flex-wrap: wrap;
