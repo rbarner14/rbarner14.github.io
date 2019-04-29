@@ -90,6 +90,7 @@ header .overlay {
   cursor: pointer; /* Add a mouse pointer on hover */
   padding: 15px; /* Some padding */
   border-radius: 10px; /* Rounded corners */
+  font-family: 'Quicksand', sans-serif;
   font-size: 18px; /* Increase font size */
 }
 
@@ -202,6 +203,7 @@ p, .btn {
   flex-wrap: wrap;
   align-content: center;
   padding: 2em 30em 2em 30em;
+  font-family: 'Quicksand', sans-serif;
 }
 
 .other-contact {
