@@ -54,7 +54,6 @@ header .overlay {
 }
 
 .navbar-brand {
-  color: #FAA916;
   font-weight: 700;
 }
 
@@ -191,4 +190,8 @@ p, .btn {
 
 .company {
   text-align: center;
+}
+
+#resume {
+  color: #FFFA00;
 }
