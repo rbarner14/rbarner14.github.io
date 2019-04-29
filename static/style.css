@@ -77,6 +77,23 @@ header .overlay {
   width: 100%;
 }*/
 
+#myBtn {
+  width: 50px;
+  font-family: 'Roboto', 'sans-serif';
+  font-weight:700;
+  font-size: 18px;
+  padding: 10px;
+  border: none;
+  background: #000;
+  color: #fff;
+  cursor: pointer;
+}
+
+#myBtn:hover {
+  background: #ddd;
+  color: black;
+}
+
 .page-section {
   height: 750px;
   padding: 0em 5em 5em 5em;
