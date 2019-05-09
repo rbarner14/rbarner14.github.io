@@ -188,11 +188,16 @@ p, .btn {
 }
 
 #other-experience {
-  text-align: center;
-  height: 450px;
+  height: 1000px;
 }
 
 #languages {
+  text-align: center;
+  padding: 0em 0em 2em 0em;
+}
+
+#countries {
+  text-align: center;
   padding: 0em 0em 2em 0em;
 }
 
