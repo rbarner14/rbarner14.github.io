@@ -143,14 +143,14 @@ p, .btn {
 
 .flex-container {
   display: flex;
-  justify-content: space-around;
-  flex-wrap: wrap;
-  align-content: center;
-  padding: 2em 10em 2em 10em;
+  justify-content: center;
+  /*flex-wrap: wrap;*/
+  /*align-content: center;*/
+  /*padding: 2em 10em 2em 10em;*/
 }
 
 #skills {
-  height: 1000px;
+  height: 850px;
 }
 
 .skill {
@@ -165,6 +165,7 @@ p, .btn {
   font-weight: 400;
   text-align: center;
   font-size: 12px;
+  margin: 10px;
 }
 
 .skill-inner {
@@ -172,6 +173,10 @@ p, .btn {
   height: 80px;
   margin-left: auto;
   margin-right: auto;
+}
+
+#marshmallow {
+  font-size: 10px;
 }
 
 #projects {
@@ -189,7 +194,11 @@ p, .btn {
 }
 
 #other-experience {
-  height: 1150px;
+  height: 1410px;
+}
+
+#global {
+  height: 300px;
 }
 
 #languages {
@@ -214,10 +223,13 @@ p, .btn {
 
 .other-contact {
   align-content: center;
+  text-align: center;
 }
 
 .company {
   text-align: center;
+  align-items: center;
+  margin: auto;
 }
 
 #resume {

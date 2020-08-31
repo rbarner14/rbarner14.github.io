@@ -5,3 +5,4 @@
 - Hackathons
 - GitHub
 - LinkedIn badge
+- run in browser: python3 -m http.server {server_number}
