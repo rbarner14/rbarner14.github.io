@@ -206,8 +206,8 @@ p, .btn {
 }
 
 #global {
-  margin: 20px;
-  height: 550px;
+  padding-top: 50px;
+  height: 600px;
 }
 
 #languages, #articles {
