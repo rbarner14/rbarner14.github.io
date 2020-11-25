@@ -31,6 +31,11 @@ header .container {
   z-index: 2;
 }
 
+.overflow-auto {
+    max-width: 500px;
+    max-height: 100px;
+}
+
 header .overlay {
   position: absolute;
   top: 0;
