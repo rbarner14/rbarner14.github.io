@@ -206,6 +206,7 @@ p, .btn {
 }
 
 #global {
+  margin: 20px;
   height: 550px;
 }
 
