@@ -226,19 +226,11 @@ p, .btn {
   padding: 0em 0em 2em 0em;
 }
 
-.contact {
+.contact-me {
   background-color: #167984;
   display: flex;
-  justify-content: space-around;
-  flex-wrap: wrap;
   align-content: center;
-  padding: 2em 30em 2em 30em;
   font-family: 'Quicksand', sans-serif;
-}
-
-.other-contact {
-  align-content: center;
-  text-align: center;
 }
 
 .company {
