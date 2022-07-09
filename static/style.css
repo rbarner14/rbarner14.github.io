@@ -226,11 +226,15 @@ p, .btn {
   padding: 0em 0em 2em 0em;
 }
 
-.contact-me {
+#contact-me {
   background-color: #167984;
-  display: flex;
   align-content: center;
+  flex-direction: column;
   font-family: 'Quicksand', sans-serif;
+}
+
+#contact-logos {
+  display: flex;
 }
 
 .company {
