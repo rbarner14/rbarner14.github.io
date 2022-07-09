@@ -232,6 +232,7 @@ p, .btn {
   flex-direction: column;
   display: flex;
   font-family: 'Quicksand', sans-serif;
+  justify-content: center;
 }
 
 .company {
