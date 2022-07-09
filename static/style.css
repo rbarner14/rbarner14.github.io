@@ -33,8 +33,8 @@ header .container {
 
 .overflow-auto {
     max-height: 500px;
-    padding-right: 15px;
-    padding-left: 15px;
+    padding-right: 85px;
+    padding-left: 85px;
     margin-right: auto;
     margin-left: auto;
 }
@@ -207,11 +207,13 @@ p, .btn {
 
 #panels {
   height: 500px;
+  padding-bottom: 10px;
+  margin-bottom: 50px;
 }
 
 #global {
-  padding-top: 70px;
-  height: 600px;
+  padding-top: 250px;
+  height: 780px;
 }
 
 #languages, #articles {
