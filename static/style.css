@@ -228,11 +228,13 @@ p, .btn {
 
 #contact-me {
   background-color: #167984;
-  align-content: center;
-  flex-direction: column;
-  display: flex;
   font-family: 'Quicksand', sans-serif;
+}
+
+#contact {
+  flex-direction: column;
   justify-content: center;
+  display: flex;
 }
 
 .company {
