@@ -1,0 +1,1 @@
+Run locally: `python3.10 -c "from livereload import Server; s = Server(); s.watch('.'); s.serve(root='.', port=8000)"`

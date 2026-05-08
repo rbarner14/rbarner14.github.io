@@ -188,11 +188,12 @@ p, .btn {
 }
 
 #projects {
+  height: 820px;
   background-color: #D3D0CB
 }
 
 #professional-experience {
-  height: 530px;
+  height: 710px;
 }
 
 #education {
@@ -247,4 +248,10 @@ p, .btn {
 
 #resume {
   color: #FFFA00;
+}
+
+/* Country flag images. Distinct from .country-tag (used for company/school
+   logos) so flags can have a thin border without affecting the logos. */
+.flag-tag {
+  border: 1px solid #000;
 }
