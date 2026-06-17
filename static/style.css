@@ -214,12 +214,16 @@ p, .btn {
 
 #global {
   padding-top: 250px;
-  height: 800px;
+  height: 820px;
 }
 
 #languages, #articles {
   text-align: center;
   padding: 0em 0em 2em 0em;
+}
+
+#bibleverse {
+  text-align: center;
 }
 
 #countries {
