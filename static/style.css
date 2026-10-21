@@ -188,7 +188,8 @@ p, .btn {
 }
 
 #projects {
-  height: 820px;
+  min-height: 900px;
+  height: auto;
   background-color: #D3D0CB
 }
 
